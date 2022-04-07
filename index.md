@@ -25,7 +25,7 @@ My second lab in CSE15L
 2. Twice
 3. Thrice
 
-'Whats an inline' code with backticks
+`Whats an inline` code with backticks
 
 --- 
 
