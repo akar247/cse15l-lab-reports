@@ -1,6 +1,6 @@
 My second lab in CSE15L
 
-[Lab Report 1](lap-report-1-week2.html)
+[Lab Report 1](lab-report-1-week2.html)
 
 *Italic Updates :)!* **with some bolds**
 
