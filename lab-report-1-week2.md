@@ -21,8 +21,10 @@ not already have Visual Studio Code installed, click [here](https://code.visuals
 ## Remotely Connecting
 2. Once VS Code has been installed, now the student can try connecting to the ieng6
 servers. The command to run would be `ssh cs15lsp22**zz**@ieng6.ucsd.edu` where 
-`zz` is the student's personal tag in their login. After typing in their password
-they should be connected to the server. 
+`zz` is the student's personal tag in their login. To find your account login, go to 
+[AccountSearchTool](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse). After typing in their password they should be connected to the server. 
+
+If you have Windows, you will need to download [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
 
 ![Image](ServerLogIn.png)
 
