@@ -1,13 +1,13 @@
-My second lab in CSE15L
+# My LABS in CSE15L
 
 [Lab Report 1](lab-report-1-week2.md)
-
-*Italic Updates :)!* **with some bolds**
 
 ---
 
 # Hashtag Random Header!
-## with smaller headers
+## with smaller headers (random below)
+
+*Italic Updates :)!* **with some bolds**
 
 [Link](https://www.youtube.com/watch?v=IOIQPBo1YJ4)
 
