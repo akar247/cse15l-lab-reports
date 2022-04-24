@@ -7,3 +7,8 @@
 
 
 ### Topic: Lab 3 Code Changes
+
+#### Code Change 1: Link w/o parentheses 
+(assume links are until end of line or until next `[`. 
+
+  
