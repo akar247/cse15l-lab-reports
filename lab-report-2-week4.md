@@ -68,6 +68,8 @@ In these images, you can see how the symptoms are either a heap space error (sig
 
 ![Image](CodeChangeSC3.png)
 
+<br>
+
 In this case, I was able to have the program ignore image references and only return urls from link references. Knowing that the only difference in syntax between the two was that image references had an `!` before the first open bracket, I was able to have the program skip to the next link whenever the line was an image reference instead of a link. The file that caused this error can be found [here.](testImage) A link to this git commit is [here.](https://github.com/akar247/markdown-parser/commit/813abd766c6b30c84313721018635b5a0fd3221b)
 
 
