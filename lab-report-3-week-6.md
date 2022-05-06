@@ -74,4 +74,7 @@ As seen in the picture above, the id_rsa private key is stored in my .ssh file. 
 #### c. Running Git `commit` & `push`
 
 
+To test running `commit` and `push` git commands on the ieng6 server, I will be using the addition of this text as the change to commit and push to the GitHub server. 
+
+
 
