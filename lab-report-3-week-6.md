@@ -73,8 +73,10 @@ As seen in the picture above, the id_rsa private key is stored in my .ssh file. 
 
 #### c. Running Git `commit` & `push`
 
+![Image](gitCommandsIeng6.png)
 
-To test running `commit` and `push` git commands on the ieng6 server, I will be using the addition of this text as the change to commit and push to the GitHub server. 
+<br>
 
+To test running `commit` and `push` git commands on the ieng6 server, I will be using the addition of this text as the change to commit and push to the GitHub server. As seen in the picture above, the commands `add` , `commit`, and `push` worked correctly. This can be seen in the change of `git status` before and after pushing the changes. More evidence of this push is the link to the [commit](https://github.com/akar247/cse15l-lab-reports/commit/daf68d948e68d463a2bea4463ab38d5d868e41ed).
 
 
