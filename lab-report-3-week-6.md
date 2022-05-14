@@ -110,6 +110,8 @@ As seen in the picture above, after I had copied the markdown-parse directory wi
 ### &emsp; __C. Combining Steps `scp` with `ssh`__
 ![Image](oneLinerPt1.png)
 
+![Image](RSFileRunning.png)
+
 <br>
 
-With the command seen in the picture above, I was able to create a oneline command that recursively copied an entire directory to a remote server, login to the remote server, go to the directory with the java files, and run the java test files. The quotation marks designate what commands were run on the remote server. 
+With the command seen in the picture above, I was able to create a oneline command that recursively copied an entire directory to a remote server, login to the remote server, go to the directory with the java files, and run the java test files. The quotation marks designate what commands were run on the remote server. The second pic shows the files actually being run, however, as seen in the terminal of that picture, there is an error occurring where the compiler is not able to recognize certain functions / syntax. 
