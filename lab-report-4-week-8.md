@@ -177,7 +177,7 @@ As seen in the error message above, my code does not know how to handle missing 
 <br>
 
 &emsp; Review Test Output:
-![image](reviewTest3.png)
+![image](ReviewTest3.png)
 
 <br>
 
