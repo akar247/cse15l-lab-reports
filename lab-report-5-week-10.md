@@ -7,7 +7,7 @@
 
 <br>
 
-## __Topic: Comparing MDParse Implementations
+## __Topic: Comparing MDParse Implementations__
 
 
 <br>
