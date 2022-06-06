@@ -60,7 +60,7 @@ This section of code is where the bug occurs since my code does not actually loo
 ### 3B. TestFile 201
 <br>
 
-![Image](testfile201.png)
+![Image](testFile201.png)
 
 <br>
 
